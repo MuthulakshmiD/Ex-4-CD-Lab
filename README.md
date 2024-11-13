@@ -56,7 +56,7 @@ void yyerror(const char *s) {
     printf("Invalid string\n");
 }
 ```
-# Output
-![379106648-238350e9-88b9-40aa-851e-101cbc1cae3e](https://github.com/user-attachments/assets/e3b581d8-e279-487e-ab47-af2c5d73f89e)
+#Output
+![378676496-6503b74f-5516-4614-afb9-9288a52a63cd](https://github.com/user-attachments/assets/bed047e1-5559-4357-8728-006e32f2233b)
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
